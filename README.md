@@ -3,8 +3,4 @@
 - 🌱 I’m currently learning a progamar a linguagem
 - 💞️ Estou procurando em colaborar em novos projetos
 - 📫 Meu email é kaylani.ferreira@escola.pr.gov.br
-
-<!---
-kaylanidocrime/kaylanidocrime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-![imagem](https://i.pinimg.com/originals/fb/95/1a/fb951a0401c2cf594e0436d0198b59c4.png)
