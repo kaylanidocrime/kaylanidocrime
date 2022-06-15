@@ -1,4 +1,4 @@
-- 👋 Oi eu sou a Kaylani
+- 👋 Oi eu sou a **Kaylani**
 - 👀 Estou interessado em aprender noivas atividades
 - 🌱 I’m currently learning a progamar a linguagem
 - 💞️ Estou procurando em colaborar em novos projetos
