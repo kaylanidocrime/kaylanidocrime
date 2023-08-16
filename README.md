@@ -1,5 +1,5 @@
 - 👋 Oi eu sou a **Kaylani**
-- 👀 Estou interessado em aprender noivas atividades
+- 👀 Estou interessado em aprender novas atividades
 - 🌱 I’m currently learning a progamar a linguagem
 - 💞️ Estou procurando em colaborar em novos projetos
 - 📫 Meu email é kaylani.ferreira@escola.pr.gov.br
